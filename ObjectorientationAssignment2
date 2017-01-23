@@ -1,0 +1,6 @@
+1. Multiple inheritence cannot be implemented in classes but can be done through interfaces.
+2. We can restrict a member of a class from inheriting to it's subclasses within same package and in different package by declaring the member to be private.
+3. Initializers can be inherited but Constructors cannot be inherited
+4. No static memebers cannot be inherited
+5. No it is not possible
+6. Yes it is possible

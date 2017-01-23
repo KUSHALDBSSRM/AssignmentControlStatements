@@ -1,0 +1,8 @@
+1. Parent
+   Derived
+   Derived
+
+2. Error because when there are parameterized constructors default or unparameterized constructors doesn't work
+3. x=5
+4. Error,Overridding not possible because foo() of superclass has weaker access previlege than foo() of subclass
+5. In Object
